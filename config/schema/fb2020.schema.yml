@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Stark theme.
+
+fb2020.settings:
+  type: theme_settings
+  label: 'fb2020 settings'
